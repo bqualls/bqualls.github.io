@@ -7,6 +7,5 @@ This is my 360 image
 
 ###Camera Effects
 
-![filter](hornet.jpg?raw=true "Optional Title")
-
+![filter](hornet.png?raw=true "Optional Title")
 ***
